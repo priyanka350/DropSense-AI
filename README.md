@@ -86,27 +86,10 @@ The CatBoost classifier achieved the best overall performance and was selected f
 
 ## 🏗️ System Architecture
 
-```text
-User
-   │
-   ▼
-React Frontend
-   │
-   ▼
-Flask REST API
-   │
-   ▼
-CatBoost Prediction Model
-   │
-   ▼
-SHAP Explainable AI
-   │
-   ▼
-Prediction Results
-   │
-   ▼
-Dashboard & Analytics
-```
+![System Architecture](README_images/system_architecture.png)
+
+
+The architecture illustrates the complete workflow of DropSense AI, from student data preprocessing and CatBoost model training to SHAP explainability, Flask backend integration, and the React-based dashboard for institutional decision support.
 
 ---
 
