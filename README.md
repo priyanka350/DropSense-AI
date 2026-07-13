@@ -149,6 +149,11 @@ venv/Scripts/activate
 python app.py
 ```
 
+### Login Page
+
+- Username : admin
+- Password : admin
+
 ---
 
 ## 💡 Future Scope
