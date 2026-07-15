@@ -95,10 +95,6 @@ The architecture illustrates the complete workflow of DropSense AI, from student
 
 ## 📸 Screenshots
 
-### Landing Page
-
-![Landing](README_images/landing_page.png)
-
 ### Login Page
 
 ![Landing](README_images/login.png)
