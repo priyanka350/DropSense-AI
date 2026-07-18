@@ -6,7 +6,7 @@ pandas==2.3.3
 scipy==1.16.3
 scikit-learn==1.8.0
 joblib==1.5.3
-catboost==1.2.8
+catboost>=1.2.9
 shap==0.49.1
 requests==2.32.3
 tqdm==4.67.1
